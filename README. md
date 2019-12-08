@@ -1,5 +1,5 @@
 There are many factors that influence how well a neural network might perform. AI practitioners tend to play around with the structure of the hidden layers, the activation functions used, and the optimisation function.
-In this project I am testing how changing these parameters impacts the accuracy performance of our network.
+In this project I am testing how changing these parameters impacts the accuracy performance of the nerural network.
 The train_network method allows me to change:
 
 *the number of layers
