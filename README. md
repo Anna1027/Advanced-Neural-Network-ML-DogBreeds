@@ -1,0 +1,15 @@
+There are many factors that influence how well a neural network might perform. AI practitioners tend to play around with the structure of the hidden layers, the activation functions used, and the optimisation function.
+This project I am testing how changing these parameters impacts the accuracy performance of our network.
+The train_network method allows me to change:
+
+*the number of layers
+*the activation functions the layers use
+*the optimizer of the model
+*the number of training cycles for the model (epochs)
+
+Then, I looked at how different activation functions impact the performance. First looked at relu and tanh
+And, optimisation function and parameters are changed and tested. 
+
+Finally, I combined what I've seen above and tried to create a neural network that performs better. 
+
+
